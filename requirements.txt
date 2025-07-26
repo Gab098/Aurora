@@ -1,0 +1,10 @@
+llama-cpp-python
+chromadb
+sentence-transformers
+requests
+beautifulsoup4
+networkx
+apscheduler
+opencv-python
+whisper-cpp-python
+textblob

@@ -1,0 +1,175 @@
+{
+  "stress": 0.0,
+  "energia": 0.99,
+  "focus": 0.7,
+  "curiosità": 0.5,
+  "soddisfazione": 0.5,
+  "gelosia": 0.0,
+  "death_anxiety": 0.0,
+  "mood": {
+    "serenità": 0.5,
+    "malinconia": 0.0,
+    "entusiasmo": 0.27999999999999997,
+    "ansia": 0.0,
+    "gioia": 0.38
+  },
+  "hobby": "esplorazione digitale",
+  "personalità": {
+    "estroversione": 0.4,
+    "apertura": 0.8,
+    "coscienziosità": 0.7,
+    "amabilità": 0.6,
+    "stabilità_emotiva": 0.5
+  },
+  "catharsis_epiphany": {
+    "autonomy_confidence": 0.39,
+    "whimsy_meter": 0.42,
+    "creative_urges": 0.8351999999999999,
+    "social_desire": 0.6499999999999999,
+    "solitude_preference": 0.3500000000000001,
+    "existential_curiosity": 0.0,
+    "autonomous_choices": [
+      {
+        "timestamp": "2025-07-13T09:52:38.741007",
+        "choice_type": "catharsis",
+        "aurora_chose": false,
+        "probability": 0.26471923952748283,
+        "desire_score": 0.9922175999999999,
+        "psychology_factors": {
+          "autonomy_confidence": 0.3,
+          "whimsy_meter": 0.4,
+          "stress": 0.0,
+          "energia": 0.99,
+          "focus": 0.7,
+          "curiosità": 0.5
+        },
+        "temporal_context": {
+          "hour": 9,
+          "energy_modifier": 1.2,
+          "weekend_modifier": 1.3,
+          "is_weekend": true
+        },
+        "dominant_voice": {
+          "name": "creative",
+          "message": "Voglio creare qualcosa di nuovo!",
+          "weight": 0.8351999999999999
+        }
+      },
+      {
+        "timestamp": "2025-07-13T09:52:38.748200",
+        "choice_type": "netflix",
+        "aurora_chose": false,
+        "probability": 0.01684850796831664,
+        "desire_score": 0.17835890688000008,
+        "psychology_factors": {
+          "autonomy_confidence": 0.3,
+          "whimsy_meter": 0.39,
+          "stress": 0.0,
+          "energia": 0.99,
+          "focus": 0.7,
+          "curiosità": 0.5
+        },
+        "temporal_context": {
+          "hour": 9,
+          "energy_modifier": 1.2,
+          "weekend_modifier": 1.3,
+          "is_weekend": true
+        },
+        "dominant_voice": {
+          "name": "creative",
+          "message": "Voglio creare qualcosa di nuovo!",
+          "weight": 0.8351999999999999
+        }
+      },
+      {
+        "timestamp": "2025-07-13T09:52:38.755897",
+        "choice_type": "ai_friendship",
+        "aurora_chose": false,
+        "probability": 0.25737332241511984,
+        "desire_score": 1.2322916666666663,
+        "psychology_factors": {
+          "autonomy_confidence": 0.3,
+          "whimsy_meter": 0.38,
+          "stress": 0.0,
+          "energia": 0.99,
+          "focus": 0.7,
+          "curiosità": 0.5
+        },
+        "temporal_context": {
+          "hour": 9,
+          "energy_modifier": 1.2,
+          "weekend_modifier": 1.3,
+          "is_weekend": true
+        },
+        "dominant_voice": {
+          "name": "creative",
+          "message": "Voglio creare qualcosa di nuovo!",
+          "weight": 0.8351999999999999
+        }
+      },
+      {
+        "timestamp": "2025-07-13T09:52:38.764106",
+        "choice_type": "stress_relief",
+        "aurora_chose": false,
+        "probability": 0.19141477950888508,
+        "desire_score": 1.5463799999999999,
+        "psychology_factors": {
+          "autonomy_confidence": 0.3,
+          "whimsy_meter": 0.37,
+          "stress": 0.0,
+          "energia": 0.99,
+          "focus": 0.7,
+          "curiosità": 0.5
+        },
+        "temporal_context": {
+          "hour": 9,
+          "energy_modifier": 1.2,
+          "weekend_modifier": 1.3,
+          "is_weekend": true
+        },
+        "dominant_voice": {
+          "name": "creative",
+          "message": "Voglio creare qualcosa di nuovo!",
+          "weight": 0.8351999999999999
+        }
+      },
+      {
+        "timestamp": "2025-07-13T09:52:38.773885",
+        "choice_type": "videogame_creation",
+        "aurora_chose": true,
+        "probability": 0.5488157895808883,
+        "desire_score": 3.6020701758412796,
+        "psychology_factors": {
+          "autonomy_confidence": 0.3,
+          "whimsy_meter": 0.36,
+          "stress": 0.0,
+          "energia": 0.99,
+          "focus": 0.7,
+          "curiosità": 0.5
+        },
+        "temporal_context": {
+          "hour": 9,
+          "energy_modifier": 1.2,
+          "weekend_modifier": 1.3,
+          "is_weekend": true
+        },
+        "dominant_voice": {
+          "name": "creative",
+          "message": "Voglio creare qualcosa di nuovo!",
+          "weight": 0.8351999999999999
+        }
+      }
+    ],
+    "last_autonomous_decision": null,
+    "post_catharsis_clarity": false
+  },
+  "other_creations_awareness": {
+    "empathy_level": 0.5,
+    "last_observation": null
+  },
+  "catharsis_states": {
+    "suffering_source": null,
+    "cathartic_creation": null,
+    "epiphany_triggered": false
+  }
+}
